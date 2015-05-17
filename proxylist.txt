@@ -1,0 +1,853 @@
+124.225.113.133:1080	SOCKS5	May-15, 14:04	China
+210.39.18.236:1080	SOCKS5	May-16, 00:09	China
+121.41.46.127:1080	SOCKS4	May-15, 14:04	China
+115.154.89.52:1080	SOCKS5	May-15, 14:04	China
+218.18.106.89:1080	SOCKS4	May-16, 00:14	China
+182.92.234.10:1080	SOCKS5	May-16, 00:09	China
+61.157.198.67:1080
+182.139.182.187:1080	SOCKS4	May-15, 14:06	China
+222.198.128.76:1080	SOCKS5	May-16, 00:43	China
+181.143.147.46:1080	SOCKS4	May-15, 14:11	Colombia
+88.83.241.232:1080	SOCKS4	May-15, 14:10	Czech Republic
+41.46.207.143:1080	SOCKS4	May-16, 00:05	Egypt
+110.139.166.76:1080	SOCKS4	May-15, 14:03	Indonesia
+103.16.114.1:1080	SOCKS4	May-15, 14:10	Indonesia
+101.255.17.34:1080	SOCKS4	May-15, 14:12	Indonesia
+114.141.49.251:1080	SOCKS4	May-15, 14:10	Indonesia
+180.250.174.204:1080	SOCKS4	May-16, 00:11	Indonesia
+202.138.249.208:1080	SOCKS4	May-15, 14:10	Indonesia
+203.201.172.163:1080	SOCKS4	May-15, 14:08	Indonesia
+180.250.174.202:1080	SOCKS4	May-15, 14:06	Indonesia
+110.137.128.123:1080	SOCKS4	May-15, 14:05	Indonesia
+82.99.254.50:1080	SOCKS4	May-16, 00:07	Iran, Islamic Republic of
+80.191.174.195:1080	SOCKS4	May-15, 14:06	Iran, Islamic Republic of
+46.36.117.5:1080	SOCKS4	May-15, 14:09	Iran, Islamic Republic of
+109.202.118.121:1080	SOCKS4	May-16, 00:09	Isle of Man
+217.11.67.178:1080	SOCKS4	May-15, 14:11	Kazakhstan
+187.210.37.36:1080	SOCKS4	May-15, 14:12	Mexico
+46.232.207.166:1080	SOCKS4	May-16, 00:12	Russian Federation
+109.111.79.34:1080	SOCKS4	May-16, 00:14	Russian Federation
+128.73.117.4:1080	SOCKS5	May-15, 14:05	Russian Federation
+213.234.29.96:1080	SOCKS4	May-16, 00:04	Russian Federation
+109.61.200.149:1080	SOCKS5	May-15, 14:03	Russian Federation
+149.3.143.250:1080	SOCKS4	May-15, 14:08	United Kingdom
+162.248.247.168:1080	SOCKS4	May-16, 00:12	United States
+162.251.114.157:10801	SOCKS5	May-16, 00:13	United States
+115.84.182.7:1080	SOCKS5	May-15, 14:04	Vietnam
+138.0.253.31:8080	anonymous	May-15, 05:12	Brazil
+46.146.209.106:3130	anonymous	May-15, 14:09	Russian Federation
+173.12.28.36:80	anonymous	May-15, 18:53	United States
+186.24.11.163:8080	anonymous	May-15, 09:50	Venezuela
+195.154.136.111:3128	anonymous	May-15, 07:30	France
+61.195.96.190:3128	anonymous	May-14, 20:28	Japan
+211.23.248.22:80	anonymous	May-15, 09:03	Taiwan
+46.164.134.26:8080	anonymous	May-15, 00:51	Ukraine
+183.89.152.56:3128	anonymous	May-14, 23:54	Thailand
+92.96.224.109:8118	anonymous	May-15, 10:57	United Arab Emirates
+89.231.11.53:80	anonymous	May-15, 11:59	Poland
+189.179.174.10:80	anonymous	May-15, 07:56	Mexico
+185.44.215.77:80	anonymous	May-14, 20:00	Italy
+177.200.80.182:3130	anonymous	May-15, 14:11	Brazil
+218.75.26.44:808	anonymous	May-14, 19:14	China
+195.4.128.102:8080	anonymous	May-14, 08:53	Germany
+218.207.195.217:80	anonymous	May-15, 23:39	China
+5.135.193.216:3127	CoDeen/PlanetLab?	May-14, 14:59	France
+183.178.33.2:8088	high-anonymous	May-14, 14:01	Hong Kong
+78.22.24.121:80	high-anonymous	May-15, 06:04	Belgium
+183.203.208.171:8118	high-anonymous	May-14, 20:39	China
+183.247.195.123:8123	high-anonymous	May-15, 14:56	China
+218.204.143.196:8118	high-anonymous	May-15, 11:52	China
+117.167.195.125:8123	high-anonymous	May-16, 01:52	China
+113.253.44.78:80	high-anonymous	May-16, 02:15	Hong Kong
+117.162.159.53:8123	high-anonymous	May-14, 06:02	China
+117.166.97.33:8123	high-anonymous	May-14, 05:01	China
+181.113.25.231:8080	high-anonymous	May-16, 02:04	Ecuador
+183.203.208.170:8118	high-anonymous	May-14, 11:03	China
+117.167.16.169:8123	high-anonymous	May-14, 19:56	China
+36.109.238.230:8090	high-anonymous	May-15, 23:40	China
+14.106.245.212:80	high-anonymous	May-14, 10:54	China
+39.178.3.227:8123	high-anonymous	May-14, 05:55	China
+202.175.104.130:9999	high-anonymous	May-15, 17:03	Macau
+112.0.29.7:8123	high-anonymous	May-15, 01:56	China
+85.17.155.77:8008	high-anonymous	May-16, 01:51	Netherlands
+208.65.174.66:80	high-anonymous	May-14, 05:03	United States
+112.45.113.29:8123	high-anonymous	May-15, 01:59	China
+183.249.52.62:8123	high-anonymous	May-15, 13:59	China
+54.160.103.57:80	high-anonymous	May-15, 16:53	United States
+223.86.129.192:8123	high-anonymous	May-15, 01:58	China
+39.176.134.87:8123	high-anonymous	May-15, 15:57	China
+223.85.80.112:8123	high-anonymous	May-14, 02:59	China
+117.164.244.5:8123	high-anonymous	May-14, 14:53	China
+113.252.98.235:80	high-anonymous	May-15, 15:56	Hong Kong
+117.177.172.35:8123	high-anonymous	May-14, 02:58	China
+111.23.58.46:8118	high-anonymous	May-15, 11:52	China
+39.167.201.47:8123	high-anonymous	May-15, 15:01	China
+117.167.55.188:8123	high-anonymous	May-14, 14:44	China
+117.174.210.157:8123	high-anonymous	May-14, 04:56	China
+183.228.233.119:8123	high-anonymous	May-14, 16:02	China
+117.168.250.189:8123	high-anonymous	May-16, 02:00	China
+117.171.129.65:8123	high-anonymous	May-14, 03:57	China
+117.166.83.132:8123	high-anonymous	May-14, 13:54	China
+112.0.139.132:8123	high-anonymous	May-14, 15:59	China
+218.204.143.87:8118	high-anonymous	May-15, 14:49	China
+117.164.4.114:8123	high-anonymous	May-15, 14:05	China
+216.185.45.213:8888	high-anonymous	May-15, 00:05	United States
+39.176.236.30:8123	high-anonymous	May-15, 14:58	China
+117.173.20.96:8123	high-anonymous	May-15, 15:51	China
+117.163.214.2:8123	high-anonymous	May-14, 03:02	China
+117.168.148.223:8123	high-anonymous	May-15, 10:56	China
+117.166.76.104:8123	high-anonymous	May-15, 16:00	China
+117.171.89.81:8123	high-anonymous	May-16, 01:54	China
+112.15.101.215:8123	high-anonymous	May-14, 15:59	China
+218.204.141.92:8118	high-anonymous	May-15, 07:27	China
+112.20.116.197:8123	high-anonymous	May-15, 14:48	China
+222.88.236.236:843	high-anonymous	May-14, 22:00	China
+183.223.243.20:8123	high-anonymous	May-15, 15:01	China
+199.200.120.36:8089	high-anonymous	May-14, 21:10	United States
+39.176.64.210:8123	high-anonymous	May-15, 07:31	China
+183.223.210.230:8123	high-anonymous	May-14, 15:58	China
+185.64.179.9:80	high-anonymous	May-14, 21:00	Iran, Islamic Republic of
+106.187.44.116:8080	high-anonymous	May-14, 10:57	Japan
+183.203.208.177:8118	high-anonymous	May-15, 16:57	China
+218.204.143.89:8001	high-anonymous	May-15, 15:53	China
+112.45.117.180:8123	high-anonymous	May-15, 15:54	China
+183.222.153.195:8123	high-anonymous	May-15, 13:57	China
+185.15.42.51:8080	high-anonymous	May-16, 01:53	Turkey
+39.167.185.183:8123	high-anonymous	May-15, 16:57	China
+39.179.105.222:8123	high-anonymous	May-15, 11:00	China
+117.164.58.240:8123	high-anonymous	May-15, 15:03	China
+117.163.210.203:8123	high-anonymous	May-14, 03:56	China
+117.164.51.39:8123	high-anonymous	May-14, 11:02	China
+117.166.228.142:8123	high-anonymous	May-15, 09:52	China
+117.170.18.143:8123	high-anonymous	May-14, 03:58	China
+69.22.179.113:8888	high-anonymous	May-15, 14:01	Anonymous Proxy
+39.177.68.168:8123	high-anonymous	May-15, 15:59	China
+117.165.164.78:8123	high-anonymous	May-15, 06:06	China
+39.189.75.7:8123	high-anonymous	May-15, 14:04	China
+213.85.92.10:80	high-anonymous	May-16, 02:05	Russian Federation
+188.165.223.173:8104	high-anonymous	May-15, 06:07	France
+120.203.236.80:8123	high-anonymous	May-14, 05:55	China
+58.247.30.222:8080	high-anonymous	May-15, 17:00	China
+117.163.211.215:8123	high-anonymous	May-15, 06:03	China
+39.177.125.31:8123	high-anonymous	May-15, 14:01	China
+183.247.233.224:8123	high-anonymous	May-14, 16:00	China
+210.57.208.14:80	high-anonymous	May-14, 08:54	Indonesia
+117.171.158.157:8123	high-anonymous	May-15, 14:01	China
+223.86.78.154:8123	high-anonymous	May-14, 04:00	China
+112.45.102.61:8123	high-anonymous	May-15, 10:54	China
+186.95.212.114:9000	high-anonymous	May-15, 17:53	Venezuela
+60.191.39.252:80	high-anonymous	May-14, 03:51	China
+223.84.16.94:8123	high-anonymous	May-14, 14:52	China
+120.203.190.47:8123	high-anonymous	May-14, 15:57	China
+123.58.129.48:443	high-anonymous	May-15, 09:56	China
+223.85.83.13:8123	high-anonymous	May-16, 01:59	China
+117.162.219.202:8123	high-anonymous	May-14, 03:58	China
+195.151.225.77:8080	high-anonymous	May-16, 02:16	Russian Federation
+120.206.214.100:8123	high-anonymous	May-14, 19:19	China
+117.171.246.203:8123	high-anonymous	May-14, 14:55	China
+124.202.174.66:8001	high-anonymous	May-14, 14:31	China
+183.203.208.162:8118	high-anonymous	May-15, 06:02	China
+196.201.216.170:5992	high-anonymous	May-14, 05:10	Kenya
+69.22.185.155:8888	high-anonymous	May-15, 19:00	Anonymous Proxy
+109.125.203.114:80	high-anonymous	May-15, 19:57	Poland
+120.193.146.93:80	high-anonymous	May-14, 20:21	China
+117.163.180.19:8123	high-anonymous	May-14, 10:57	China
+223.85.83.33:8123	high-anonymous	May-15, 16:04	China
+117.168.43.47:8123	high-anonymous	May-14, 03:59	China
+162.209.0.32:8080	high-anonymous	May-15, 15:46	United States
+117.166.230.190:8123	high-anonymous	May-14, 10:59	China
+111.1.36.6:80	high-anonymous	May-15, 15:59	China
+123.163.125.170:9000	high-anonymous	May-14, 07:54	China
+198.144.107.243:8888	high-anonymous	May-15, 10:54	Anonymous Proxy
+221.10.102.203:80	high-anonymous	May-15, 16:11	China
+117.167.86.246:8123	high-anonymous	May-15, 14:57	China
+31.135.72.20:8080	high-anonymous	May-15, 05:09	Russian Federation
+117.168.198.252:8123	high-anonymous	May-14, 16:53	China
+183.223.207.202:8123	high-anonymous	May-14, 10:55	China
+117.177.240.185:80	high-anonymous	May-14, 05:58	China
+64.40.148.106:8888	high-anonymous	May-15, 05:54	United States
+162.244.26.92:8118	high-anonymous	May-14, 14:00	Canada
+117.170.1.149:8123	high-anonymous	May-14, 13:55	China
+66.186.2.163:80	high-anonymous	May-14, 16:07	United States
+222.45.212.130:8118	high-anonymous	May-14, 04:58	China
+60.195.3.180:8118	high-anonymous	May-15, 18:58	China
+183.219.146.183:8123	high-anonymous	May-15, 12:00	China
+117.165.40.38:8123	high-anonymous	May-15, 14:01	China
+117.175.199.68:8123	high-anonymous	May-15, 00:05	China
+111.13.136.59:843	high-anonymous	May-15, 17:47	China
+204.93.58.85:8888	high-anonymous	May-14, 14:46	United States
+120.203.164.44:8123	high-anonymous	May-14, 15:55	China
+117.178.78.132:8123	high-anonymous	May-14, 11:00	China
+183.220.245.48:8123	high-anonymous	May-15, 23:28	China
+117.171.152.83:8123	high-anonymous	May-14, 06:00	China
+198.144.106.210:8888	high-anonymous	May-14, 22:57	Anonymous Proxy
+69.22.187.139:8888	high-anonymous	May-15, 10:53	Anonymous Proxy
+183.207.224.45:80	high-anonymous	May-14, 07:15	China
+120.206.134.176:8123	high-anonymous	May-16, 01:55	China
+112.44.32.5:8123	high-anonymous	May-15, 10:52	China
+112.19.118.68:8123	high-anonymous	May-14, 11:00	China
+24.248.98.45:8888	high-anonymous	May-14, 14:16	United States
+62.195.126.127:80	high-anonymous	May-14, 17:56	Netherlands
+111.9.125.185:8123	high-anonymous	May-14, 11:01	China
+219.239.149.128:8118	high-anonymous	May-14, 05:01	China
+39.166.108.109:8123	high-anonymous	May-14, 14:58	China
+39.184.103.71:8123	high-anonymous	May-15, 05:56	China
+69.22.168.197:8888	high-anonymous	May-15, 07:58	Anonymous Proxy
+39.177.113.209:8123	high-anonymous	May-14, 15:57	China
+117.164.159.204:8123	high-anonymous	May-14, 10:58	China
+111.13.109.53:80	high-anonymous	May-15, 17:07	China
+120.206.154.140:8123	high-anonymous	May-14, 12:57	China
+117.177.226.174:8123	high-anonymous	May-15, 14:34	China
+117.167.128.26:8123	high-anonymous	May-14, 05:58	China
+117.163.212.244:8123	high-anonymous	May-15, 13:56	China
+199.8.233.107:80	high-anonymous	May-15, 19:57	United States
+112.15.209.28:8123	high-anonymous	May-15, 01:54	China
+183.216.255.18:8118	high-anonymous	May-15, 11:58	China
+183.222.91.70:8123	high-anonymous	May-15, 06:01	China
+117.167.235.0:8123	high-anonymous	May-14, 10:56	China
+183.220.241.192:8123	high-anonymous	May-14, 10:55	China
+120.206.159.36:8123	high-anonymous	May-14, 14:54	China
+117.164.146.181:8123	high-anonymous	May-15, 14:53	China
+117.174.201.237:8123	high-anonymous	May-14, 04:54	China
+183.207.224.43:80	high-anonymous	May-14, 14:52	China
+117.166.251.165:8123	high-anonymous	May-15, 10:56	China
+69.22.170.122:8888	high-anonymous	May-15, 07:54	Anonymous Proxy
+77.175.158.57:80	high-anonymous	May-14, 17:04	Netherlands
+117.166.82.194:8123	high-anonymous	May-15, 11:53	China
+49.77.125.216:80	high-anonymous	May-14, 16:59	China
+117.173.203.73:8123	high-anonymous	May-14, 04:00	China
+216.185.38.207:8888	high-anonymous	May-15, 08:28	United States
+183.207.224.51:85	high-anonymous	May-14, 21:00	China
+117.167.2.192:8123	high-anonymous	May-15, 06:03	China
+221.15.142.52:8118	high-anonymous	May-15, 15:56	China
+117.177.45.236:8123	high-anonymous	May-15, 02:01	China
+117.163.225.188:8123	high-anonymous	May-15, 02:02	China
+216.185.45.199:8888	high-anonymous	May-15, 15:57	United States
+218.204.140.106:8118	high-anonymous	May-15, 18:57	China
+117.177.44.63:8123	high-anonymous	May-14, 15:02	China
+222.88.236.236:81	high-anonymous	May-14, 10:59	China
+107.150.96.210:80	high-anonymous	May-15, 18:01	United States
+223.86.220.17:8123	high-anonymous	May-14, 04:52	China
+183.219.30.210:8123	high-anonymous	May-15, 16:01	China
+39.177.22.214:8123	high-anonymous	May-15, 14:58	China
+117.175.110.229:8123	high-anonymous	May-15, 02:02	China
+60.206.153.177:8118	high-anonymous	May-15, 14:53	China
+112.15.123.143:8123	high-anonymous	May-14, 02:52	China
+117.174.227.86:8123	high-anonymous	May-15, 01:56	China
+218.204.143.133:8118	high-anonymous	May-14, 20:48	China
+188.165.223.173:8137	high-anonymous	May-14, 15:02	France
+120.193.146.93:83	high-anonymous	May-14, 20:50	China
+218.207.102.106:81	high-anonymous	May-14, 03:50	China
+223.84.151.210:8123	high-anonymous	May-14, 14:54	China
+117.167.232.102:8123	high-anonymous	May-14, 06:01	China
+183.220.246.232:8123	high-anonymous	May-15, 10:51	China
+117.166.70.204:8123	high-anonymous	May-14, 04:52	China
+192.254.69.41:8089	high-anonymous	May-14, 14:47	United States
+125.109.129.57:80	high-anonymous	May-15, 14:52	China
+117.165.44.67:8123	high-anonymous	May-15, 14:56	China
+117.163.119.97:8123	high-anonymous	May-15, 15:01	China
+112.26.164.47:8123	high-anonymous	May-14, 17:06	China
+111.1.36.133:80	high-anonymous	May-15, 15:59	China
+69.31.50.100:8888	high-anonymous	May-15, 05:53	Anonymous Proxy
+212.185.87.53:443	high-anonymous	May-14, 06:54	Germany
+117.163.129.111:8123	high-anonymous	May-14, 03:52	China
+39.182.131.94:8123	high-anonymous	May-15, 07:24	China
+183.228.107.239:8123	high-anonymous	May-14, 14:58	China
+223.84.211.39:8123	high-anonymous	May-15, 10:55	China
+183.206.58.198:8123	high-anonymous	May-14, 14:53	China
+183.219.159.193:8123	high-anonymous	May-15, 13:59	China
+196.201.216.172:8036	high-anonymous	May-15, 16:55	Kenya
+112.45.98.205:8123	high-anonymous	May-14, 19:07	China
+117.173.120.120:8123	high-anonymous	May-14, 14:57	China
+223.87.183.232:8123	high-anonymous	May-15, 15:53	China
+116.228.55.217:8003	high-anonymous	May-14, 18:04	China
+183.207.224.51:80	high-anonymous	May-15, 16:11	China
+185.15.42.53:8080	high-anonymous	May-15, 14:52	Turkey
+117.170.219.50:8123	high-anonymous	May-15, 15:55	China
+112.19.125.18:8123	high-anonymous	May-15, 15:55	China
+211.141.130.186:8118	high-anonymous	May-15, 16:02	China
+117.162.80.238:8123	high-anonymous	May-14, 04:53	China
+117.165.42.130:8123	high-anonymous	May-15, 14:59	China
+124.192.101.254:8118	high-anonymous	May-14, 03:56	China
+82.101.252.212:80	high-anonymous	May-14, 06:59	Netherlands
+112.19.217.66:8123	high-anonymous	May-15, 10:54	China
+117.177.227.6:8123	high-anonymous	May-14, 13:58	China
+115.29.140.45:8888	high-anonymous	May-14, 13:52	China
+117.166.89.19:8123	high-anonymous	May-14, 05:59	China
+39.177.156.157:8123	high-anonymous	May-14, 03:55	China
+196.201.216.170:4905	high-anonymous	May-14, 07:50	Kenya
+183.131.144.204:80	high-anonymous	May-14, 20:48	China
+223.85.109.143:8123	high-anonymous	May-14, 17:02	China
+84.25.6.131:80	high-anonymous	May-15, 06:05	Netherlands
+39.166.20.193:8123	high-anonymous	May-16, 02:00	China
+39.167.205.178:8123	high-anonymous	May-14, 05:03	China
+117.167.83.70:8123	high-anonymous	May-16, 01:58	China
+198.144.107.146:8888	high-anonymous	May-16, 01:51	Anonymous Proxy
+39.167.26.133:8123	high-anonymous	May-15, 11:55	China
+39.168.89.176:8123	high-anonymous	May-15, 11:55	China
+117.165.135.169:8123	high-anonymous	May-14, 16:57	China
+183.212.142.135:8123	high-anonymous	May-14, 05:54	China
+117.164.134.144:8123	high-anonymous	May-14, 23:55	China
+69.22.184.209:8888	high-anonymous	May-15, 05:54	United States
+183.222.158.193:8123	high-anonymous	May-14, 04:55	China
+117.164.6.225:8123	high-anonymous	May-15, 18:03	China
+39.166.97.51:8123	high-anonymous	May-15, 01:54	China
+183.247.218.187:8123	high-anonymous	May-14, 23:01	China
+183.247.205.45:8123	high-anonymous	May-14, 23:00	China
+117.177.226.185:8123	high-anonymous	May-14, 15:54	China
+117.173.120.14:8123	high-anonymous	May-15, 14:44	China
+39.178.180.63:8123	high-anonymous	May-15, 16:58	China
+117.177.46.174:8123	high-anonymous	May-14, 03:57	China
+117.166.98.59:8123	high-anonymous	May-14, 10:59	China
+183.219.81.162:8123	high-anonymous	May-14, 06:00	China
+216.185.45.121:8888	high-anonymous	May-14, 14:56	United States
+223.82.234.173:8123	high-anonymous	May-14, 15:01	China
+117.165.46.241:8123	high-anonymous	May-15, 14:53	China
+123.205.97.83:8088	high-anonymous	May-15, 07:25	Taiwan
+183.220.240.52:8123	high-anonymous	May-14, 14:57	China
+61.237.162.119:8118	high-anonymous	May-14, 09:11	China
+183.203.208.163:8118	high-anonymous	May-14, 09:23	China
+117.177.102.186:8123	high-anonymous	May-14, 12:53	China
+123.203.176.153:8088	high-anonymous	May-14, 10:56	Hong Kong
+117.170.30.252:8123	high-anonymous	May-15, 14:53	China
+39.167.24.243:8123	high-anonymous	May-14, 04:58	China
+69.22.184.40:8888	high-anonymous	May-15, 16:53	United States
+117.163.149.147:8123	high-anonymous	May-14, 14:48	China
+117.139.1.167:8123	high-anonymous	May-14, 04:58	China
+219.141.225.149:80	high-anonymous	May-15, 17:59	China
+117.171.178.223:8123	high-anonymous	May-15, 14:51	China
+196.201.216.171:1544	high-anonymous	May-14, 05:02	Kenya
+59.61.79.124:8118	high-anonymous	May-15, 07:22	China
+203.172.216.230:8080	high-anonymous	May-15, 19:53	Thailand
+223.86.64.172:8123	high-anonymous	May-15, 10:58	China
+109.233.213.121:3128	high-anonymous	May-15, 06:02	Russian Federation
+117.167.10.181:8123	high-anonymous	May-14, 18:01	China
+112.45.99.55:8123	high-anonymous	May-15, 01:52	China
+117.175.108.241:8123	high-anonymous	May-14, 14:54	China
+39.177.127.17:8123	high-anonymous	May-15, 07:28	China
+223.87.186.96:8123	high-anonymous	May-14, 21:03	China
+183.220.196.211:8123	high-anonymous	May-14, 12:00	China
+213.135.106.198:3128	high-anonymous	May-15, 15:12	Russian Federation
+69.22.184.217:8888	high-anonymous	May-15, 01:54	United States
+117.164.134.232:8123	high-anonymous	May-15, 01:57	China
+183.131.144.204:443	high-anonymous	May-14, 19:30	China
+183.222.155.176:8123	high-anonymous	May-15, 14:57	China
+83.83.68.253:80	high-anonymous	May-14, 04:50	Netherlands
+188.165.223.173:8116	high-anonymous	May-16, 02:05	France
+117.166.82.242:8123	high-anonymous	May-14, 03:56	China
+117.166.101.77:8123	high-anonymous	May-15, 14:55	China
+196.201.216.170:6110	high-anonymous	May-15, 11:50	Kenya
+117.175.39.88:8123	high-anonymous	May-14, 10:53	China
+112.24.126.243:8123	high-anonymous	May-14, 08:01	China
+117.167.156.219:8123	high-anonymous	May-14, 14:00	China
+117.168.191.212:8123	high-anonymous	May-15, 07:28	China
+218.89.170.114:8888	high-anonymous	May-16, 01:04	China
+124.202.173.210:8118	high-anonymous	May-15, 07:23	China
+111.3.98.96:8123	high-anonymous	May-14, 12:53	China
+111.9.161.15:8123	high-anonymous	May-15, 15:51	China
+117.162.63.125:8123	high-anonymous	May-14, 03:51	China
+117.167.170.234:8123	high-anonymous	May-14, 16:02	China
+107.182.17.149:8089	high-anonymous	May-14, 04:00	United States
+117.163.193.78:8123	high-anonymous	May-14, 05:00	China
+117.171.133.63:8123	high-anonymous	May-15, 14:53	China
+23.245.7.107:3128	high-anonymous	May-14, 14:12	United States
+117.170.93.226:8123	high-anonymous	May-15, 09:54	China
+203.172.208.158:8080	high-anonymous	May-15, 16:56	Thailand
+117.177.227.12:8123	high-anonymous	May-15, 06:01	China
+46.16.36.190:8888	high-anonymous	May-14, 14:59	Anonymous Proxy
+117.173.121.40:8123	high-anonymous	May-14, 06:00	China
+117.177.142.234:8123	high-anonymous	May-14, 10:49	China
+117.41.20.5:9000	high-anonymous	May-15, 15:10	China
+112.19.224.72:8123	high-anonymous	May-14, 14:52	China
+39.179.184.227:8123	high-anonymous	May-15, 16:56	China
+183.219.74.58:8123	high-anonymous	May-15, 07:24	China
+112.45.102.91:8123	high-anonymous	May-14, 17:58	China
+93.184.5.22:80	high-anonymous	May-16, 02:16	Palestinian Territory
+117.167.26.91:8123	high-anonymous	May-14, 14:58	China
+118.163.165.250:3128	high-anonymous	May-15, 18:52	Taiwan
+128.199.108.251:80	high-anonymous	May-15, 14:00	Singapore
+39.166.198.250:8123	high-anonymous	May-15, 06:04	China
+120.206.155.166:8123	high-anonymous	May-15, 14:58	China
+77.174.24.254:80	high-anonymous	May-14, 03:01	Netherlands
+223.84.184.121:8123	high-anonymous	May-15, 10:53	China
+183.221.188.175:8123	high-anonymous	May-14, 10:56	China
+223.82.68.251:8123	high-anonymous	May-15, 15:54	China
+117.170.100.193:8123	high-anonymous	May-15, 13:57	China
+88.159.224.156:80	high-anonymous	May-15, 06:02	Netherlands
+117.163.101.13:8123	high-anonymous	May-15, 13:55	China
+117.165.35.12:8123	high-anonymous	May-14, 11:50	China
+198.144.106.120:8888	high-anonymous	May-14, 23:03	Anonymous Proxy
+183.222.161.19:8123	high-anonymous	May-14, 11:50	China
+124.202.174.66:8118	high-anonymous	May-15, 05:54	China
+117.169.186.216:8123	high-anonymous	May-14, 03:58	China
+117.177.240.43:80	high-anonymous	May-15, 22:59	China
+117.171.155.136:8123	high-anonymous	May-14, 11:56	China
+183.207.224.50:83	high-anonymous	May-15, 16:10	China
+182.93.225.238:8080	high-anonymous	May-14, 05:03	Thailand
+117.176.32.91:8123	high-anonymous	May-15, 15:59	China
+196.201.216.172:195	high-anonymous	May-15, 07:52	Kenya
+183.223.207.228:8123	high-anonymous	May-14, 18:02	China
+27.115.75.114:8080	high-anonymous	May-14, 21:01	China
+117.170.133.152:8123	high-anonymous	May-14, 11:00	China
+183.217.209.163:8123	high-anonymous	May-14, 03:58	China
+119.188.94.145:80	high-anonymous	May-16, 00:00	China
+69.31.50.156:8888	high-anonymous	May-15, 07:58	Anonymous Proxy
+173.199.140.8:3128	high-anonymous	May-15, 17:56	United States
+39.176.136.242:8123	high-anonymous	May-15, 14:55	China
+117.165.150.183:8123	high-anonymous	May-14, 17:04	China
+183.220.244.199:8123	high-anonymous	May-14, 16:01	China
+218.207.102.106:83	high-anonymous	May-14, 05:57	China
+183.217.206.194:8123	high-anonymous	May-15, 10:55	China
+67.198.146.178:808	high-anonymous	May-15, 14:52	United States
+60.26.71.82:8118	high-anonymous	May-14, 17:16	China
+196.201.216.172:2809	high-anonymous	May-14, 13:59	Kenya
+211.141.82.247:8118	high-anonymous	May-15, 14:52	China
+54.94.224.234:8080	high-anonymous	May-15, 05:13	Brazil
+182.92.178.167:80	high-anonymous	May-14, 12:58	China
+117.163.66.191:8123	high-anonymous	May-16, 01:58	China
+82.80.132.221:8088	high-anonymous	May-14, 04:51	Israel
+117.177.45.74:8123	high-anonymous	May-15, 23:58	China
+117.175.108.84:8123	high-anonymous	May-14, 15:49	China
+202.198.171.104:8088	high-anonymous	May-14, 15:01	China
+117.167.8.183:8123	high-anonymous	May-14, 02:51	China
+183.203.208.178:8118	high-anonymous	May-14, 14:15	China
+196.201.216.170:3808	high-anonymous	May-15, 16:56	Kenya
+117.174.222.127:8123	high-anonymous	May-14, 04:54	China
+117.178.71.199:8123	high-anonymous	May-14, 03:54	China
+117.167.16.73:8123	high-anonymous	May-14, 04:59	China
+117.176.38.79:8123	high-anonymous	May-15, 15:51	China
+69.22.179.71:8888	high-anonymous	May-15, 07:28	Anonymous Proxy
+113.252.184.101:80	high-anonymous	May-16, 01:55	Hong Kong
+117.168.130.114:8123	high-anonymous	May-15, 11:58	China
+117.165.55.148:8123	high-anonymous	May-15, 07:29	China
+183.219.163.30:8123	high-anonymous	May-14, 03:59	China
+117.167.178.250:8123	high-anonymous	May-15, 14:50	China
+183.219.102.242:8123	high-anonymous	May-15, 15:02	China
+117.167.82.127:8123	high-anonymous	May-14, 19:30	China
+117.175.194.163:8123	high-anonymous	May-14, 02:56	China
+188.121.63.235:80	high-anonymous	May-15, 16:54	Netherlands
+113.140.25.4:81	high-anonymous	May-15, 22:54	China
+69.22.185.29:8888	high-anonymous	May-14, 09:02	Anonymous Proxy
+183.216.130.137:8123	high-anonymous	May-14, 15:52	China
+117.162.84.212:8123	high-anonymous	May-14, 04:54	China
+39.177.126.27:8123	high-anonymous	May-14, 02:51	China
+223.84.209.3:8123	high-anonymous	May-15, 11:59	China
+183.230.53.30:8123	high-anonymous	May-14, 23:57	China
+69.22.187.190:8888	high-anonymous	May-14, 14:55	Anonymous Proxy
+223.86.78.233:8123	high-anonymous	May-15, 15:04	China
+183.221.139.247:8123	high-anonymous	May-15, 14:42	China
+218.4.236.117:80	high-anonymous	May-15, 23:39	China
+42.61.111.148:21320	high-anonymous	May-15, 07:36	Singapore
+58.115.138.117:8088	high-anonymous	May-14, 06:00	Taiwan
+223.85.18.164:8123	high-anonymous	May-14, 17:00	China
+223.86.134.55:8123	high-anonymous	May-15, 16:52	China
+117.166.49.154:8123	high-anonymous	May-15, 15:01	China
+39.176.239.94:8123	high-anonymous	May-14, 13:56	China
+183.69.131.129:80	high-anonymous	May-15, 10:55	China
+213.93.183.146:80	high-anonymous	May-14, 03:57	Netherlands
+117.178.128.64:8123	high-anonymous	May-15, 14:58	China
+117.173.108.228:8123	high-anonymous	May-15, 16:52	China
+54.179.244.36:80	high-anonymous	May-15, 13:53	Singapore
+59.58.162.141:888	high-anonymous	May-14, 19:40	China
+196.201.216.172:2001	high-anonymous	May-15, 11:50	Kenya
+115.127.10.186:8080	transparent	May-14, 03:55	Bangladesh
+176.107.17.101:8080	transparent	May-15, 18:58	Slovakia
+185.58.16.41:8080	transparent	May-14, 06:55	Ireland
+177.75.43.10:8080	transparent	May-14, 17:59	Brazil
+95.6.37.107:80	transparent	May-14, 22:51	Turkey
+89.43.53.37:8080	transparent	May-14, 15:53	Romania
+200.105.148.74:8080	transparent	May-15, 14:53	Bolivia
+36.76.26.8:8080	transparent	May-14, 18:03	Indonesia
+200.192.252.130:8080	transparent	May-16, 02:01	Brazil
+88.103.234.67:8081	transparent	May-14, 16:00	Czech Republic
+111.1.61.23:8080	transparent	May-15, 15:19	China
+128.199.164.194:8080	transparent	May-14, 04:56	Singapore
+211.144.76.58:9000	transparent	May-15, 17:01	China
+46.53.160.20:3128	transparent	May-15, 00:55	Belarus
+82.200.244.226:3129	transparent	May-15, 07:26	Kazaksta
+121.41.20.229:3128	transparent	May-15, 11:56	China
+213.98.170.158:8080	transparent	May-14, 17:57	Spain
+177.8.226.254:9090	transparent	May-14, 14:01	Brazil
+189.85.17.26:8080	transparent	May-15, 17:00	Brazil
+185.73.170.25:8080	transparent	May-14, 03:57	Spain
+200.42.118.58:3128	transparent	May-14, 13:00	Argentina
+103.25.108.177:8080	transparent	May-15, 15:55	Indonesia
+49.156.57.97:8080	transparent	May-16, 01:14	Indonesia
+176.31.21.245:3128	transparent	May-15, 18:57	France
+118.69.226.241:8888	transparent	May-14, 03:55	Vietnam
+190.182.146.250:8081	transparent	May-15, 15:52	Argentina
+5.56.61.186:16068	transparent	May-15, 14:42	Spain
+219.136.135.18:9797	transparent	May-14, 03:59	China
+200.43.56.124:8080	transparent	May-14, 05:56	Argentina
+202.77.115.71:54321	transparent	May-15, 07:55	Indonesia
+125.99.100.73:8080	transparent	May-14, 18:00	India
+182.23.33.26:8080	transparent	May-14, 11:54	Indonesia
+187.102.153.148:3128	transparent	May-15, 07:52	Brazil
+27.50.16.170:8080	transparent	May-15, 18:01	Indonesia
+190.85.203.138:3130	transparent	May-14, 14:05	Colombia
+200.87.179.178:8080	transparent	May-14, 17:02	Bolivia
+197.211.209.206:8080	transparent	May-14, 23:59	Zimbabwe
+187.62.205.74:3128	transparent	May-15, 21:53	Brazil
+180.249.58.192:8080	transparent	May-14, 18:02	Indonesia
+176.74.219.102:8888	transparent	May-16, 00:44	Czech Republic
+186.237.197.245:3128	transparent	May-14, 16:00	Brazil
+114.42.182.89:3128	transparent	May-14, 14:56	Taiwan
+119.235.51.44:8080	transparent	May-15, 17:00	India
+91.243.163.202:8080	transparent	May-14, 07:52	Iran, Islamic Republic of
+177.189.209.130:3129	transparent	May-14, 19:03	Brazil
+84.11.46.66:8080	transparent	May-14, 19:02	Satellite Provider
+5.56.12.6:8080	transparent	May-14, 15:57	Italy
+37.72.2.131:8080	transparent	May-15, 05:12	Spain
+165.138.199.37:8080	transparent	May-15, 22:38	United States
+195.191.78.129:8080	transparent	May-15, 05:10	Russian Federation
+179.125.124.239:8080	transparent	May-15, 19:58	Brazil
+163.125.219.156:9999	transparent	May-14, 15:13	China
+101.255.44.58:3128	transparent	May-14, 15:50	Indonesia
+85.13.13.254:8080	transparent	May-14, 03:50	Austria
+186.24.42.122:8080	transparent	May-15, 01:58	Venezuela
+187.189.250.236:8080	transparent	May-15, 15:23	Mexico
+188.163.252.44:8081	transparent	May-14, 14:09	Ukraine
+120.24.158.221:10001	transparent	May-14, 02:59	China
+190.167.243.14:8080	transparent	May-15, 22:52	Dominican Republic
+121.40.30.205:3128	transparent	May-16, 02:00	China
+202.137.11.54:1234	transparent	May-15, 13:57	Indonesia
+190.105.224.37:80	transparent	May-15, 07:22	Argentina
+186.67.97.35:8081	transparent	May-15, 20:08	Chile
+52.11.75.177:9090	transparent	May-15, 07:22	United States
+88.247.214.92:8089	transparent	May-14, 16:02	Turkey
+41.86.25.158:8080	transparent	May-15, 15:59	Liberia
+95.46.153.198:8080	transparent	May-15, 14:09	Kazakstan
+118.179.221.2:8080	transparent	May-14, 19:49	Bangladesh
+201.208.57.183:3128	transparent	May-16, 01:54	Venezuela
+42.117.1.78:3128	transparent	May-15, 14:02	Vietnam
+115.231.188.109:80	transparent	May-15, 14:53	China
+124.81.127.83:80	transparent	May-14, 21:59	Indonesia
+78.30.193.52:8888	transparent	May-14, 18:03	Ukraine
+201.199.97.50:8080	transparent	May-14, 17:03	Costa Rica
+61.133.51.6:9797	transparent	May-14, 05:04	China
+186.226.150.191:80	transparent	May-14, 11:02	Brazil
+223.100.98.44:8000	transparent	May-14, 23:20	China
+86.105.81.139:3128	transparent	May-15, 08:58	Moldova, Republic of
+163.53.186.170:8080	transparent	May-14, 11:51	Indonesia
+54.179.61.227:3128	transparent	May-14, 22:56	Singapore
+183.184.209.48:9797	transparent	May-14, 05:00	China
+41.191.216.142:8080	transparent	May-15, 15:58	Botswana
+186.226.38.242:8000	transparent	May-15, 08:57	Brazil
+204.27.58.202:8118	transparent	May-15, 06:00	United States
+177.43.37.115:3128	transparent	May-14, 23:21	Brazil
+187.188.132.36:8080	transparent	May-15, 15:02	Mexico
+46.101.147.103:3128	transparent	May-15, 05:10	Germany
+154.72.48.186:8080	transparent	May-15, 10:54	Somalia
+27.124.94.179:8080	transparent	May-14, 14:03	Indonesia
+154.126.209.36:9999	transparent	May-15, 13:55	South Africa
+80.73.72.136:8080	transparent	May-14, 05:06	Russian Federation
+202.108.35.151:80	transparent	May-14, 18:57	China
+181.164.166.72:8080	transparent	May-16, 01:52	Argentina
+94.74.150.19:8080	transparent	May-15, 14:02	Iran, Islamic Republic of
+5.196.219.74:3128	transparent	May-15, 14:55	France
+198.23.241.170:80	transparent	May-15, 15:47	United States
+181.15.155.138:8080	transparent	May-15, 17:55	Argentina
+201.59.174.194:80	transparent	May-15, 09:54	Brazil
+198.11.172.39:3128	transparent	May-14, 04:59	United States
+41.215.7.94:8080	transparent	May-14, 15:00	Kenya
+119.40.98.26:8080	transparent	May-15, 17:59	Mongolia
+75.144.226.89:8080	transparent	May-15, 23:50	United States
+41.133.137.112:8080	transparent	May-15, 16:59	South Africa
+52.64.5.159:3128	transparent	May-16, 01:54	Australia
+85.109.33.248:8080	transparent	May-14, 15:53	Turkey
+190.37.140.150:3128	transparent	May-15, 07:34	Venezuela
+5.56.12.1:8080	transparent	May-14, 16:03	Italy
+101.251.96.67:8888	transparent	May-15, 14:01	China
+177.182.153.200:3128	transparent	May-15, 14:01	Brazil
+139.0.25.19:8080	transparent	May-14, 07:50	Indonesia
+58.132.25.19:3128	transparent	May-16, 02:03	China
+223.27.238.158:3128	transparent	May-14, 14:09	Thailand
+112.78.47.130:888	transparent	May-14, 15:41	Indonesia
+195.229.192.46:8080	transparent	May-14, 05:51	United Arab Emirates
+118.179.203.141:3128	transparent	May-14, 05:56	Bangladesh
+154.73.44.1:8080	transparent	May-14, 05:01	Somalia
+196.41.9.26:8585	transparent	May-15, 19:01	South Africa
+195.29.77.89:8080	transparent	May-14, 16:57	Croatia
+119.81.148.166:3128	transparent	May-15, 08:00	Hong Kong
+186.46.129.115:3128	transparent	May-14, 18:57	Ecuador
+186.115.193.118:8080	transparent	May-15, 15:01	Colombia
+178.173.128.234:3128	transparent	May-15, 17:54	Iran, Islamic Republic of
+46.100.167.150:8080	transparent	May-14, 13:54	Iran, Islamic Republic of
+89.249.207.65:3128	transparent	May-15, 16:54	Armenia
+41.220.136.227:8080	transparent	May-14, 19:56	Tanzania, United Republic of
+202.51.24.121:8080	transparent	May-14, 17:03	Indonesia
+181.197.53.177:3128	transparent	May-14, 17:57	Panama
+113.193.29.67:3128	transparent	May-15, 07:59	India
+41.33.248.12:8080	transparent	May-15, 15:55	Egypt
+46.209.216.100:8080	transparent	May-15, 10:57	Iran, Islamic Republic of
+159.253.80.30:808	transparent	May-15, 13:55	Turkey
+202.119.25.70:9999	transparent	May-15, 15:29	China
+110.173.0.58:80	transparent	May-14, 10:02	China
+82.207.59.4:8080	transparent	May-14, 15:08	Ukraine
+91.109.28.101:1337	transparent	May-15, 18:50	Germany
+203.201.172.92:3128	transparent	May-14, 17:05	Indonesia
+185.12.24.225:8080	transparent	May-15, 15:59	Iraq
+200.109.65.70:3128	transparent	May-14, 23:54	Venezuela
+190.128.170.14:3128	transparent	May-16, 01:59	Paraguay
+175.139.214.91:8080	transparent	May-15, 18:55	Malaysia
+179.185.8.65:8080	transparent	May-15, 14:01	Brazil
+89.234.199.60:8000	transparent	May-14, 03:56	Poland
+221.180.145.85:3128	transparent	May-14, 17:05	China
+180.250.171.66:8080	transparent	May-14, 13:53	Indonesia
+222.129.94.133:9797	transparent	May-14, 16:01	China
+12.54.191.95:3128	transparent	May-15, 19:00	United States
+202.179.71.121:8080	transparent	May-15, 07:58	India
+45.64.136.154:8080	transparent	May-15, 05:10	Bangladesh
+178.255.170.137:8080	transparent	May-15, 16:54	Czech Republic
+94.153.89.84:8080	transparent	May-15, 14:03	Ukraine
+46.175.151.234:8080	transparent	May-15, 10:52	Ukraine
+1	85.17.155.77	8008	高度匿名	荷兰 阿姆斯特丹LeaseWeb IDC
+2	104.236.215.210	8080	透明代理	北美地区
+3	192.99.3.129	3128	透明代理	加拿大
+4	91.121.103.144	3128	匿名代理	法国 巴黎OVH系统公司
+5	185.28.193.95	8080	透明代理	捷克
+6	23.110.53.93	9000	透明代理	美国
+7	167.160.162.150	8000	透明代理	美国
+8	101.4.136.66	83	高度匿名	北京市 教育网
+9	178.157.63.154	3129	透明代理	伊朗
+10	185.5.222.130	8080	透明代理	巴勒斯坦
+11	165.138.124.4	8080	透明代理	美国 印第安纳州
+12	23.91.25.96	3128	透明代理	美国
+13	101.4.136.66	81	高度匿名	北京市 教育网
+14	202.119.25.228	9999	透明代理	东南大学
+15	202.119.25.227	9999	透明代理	东南大学
+16	94.158.175.226	8080	透明代理	俄罗斯
+17	111.161.126.101	80	透明代理	天津市 联通
+18	190.85.203.138	3130	透明代理	哥伦比亚
+19	37.187.114.209	8080	高度匿名	法国
+20	89.189.183.146	3128	高度匿名	俄罗斯
+21	112.112.11.82	8080	高度匿名	云南省昆明市 电信
+22	128.199.98.44	3128	透明代理	新加坡
+23	200.149.1.54	80	透明代理	巴西 圣保罗
+24	113.255.61.57	80	匿名代理	香港 和记环球电讯有限公司
+25	113.253.44.78	80	匿名代理	香港 和记环球电讯有限公司
+26	124.127.123.48	80	透明代理	北京市 电信
+27	54.179.61.227	3128	透明代理	美国 华盛顿州西雅图市亚马逊公司数据中心
+28	101.251.96.67	8888	透明代理	上海市
+29	14.139.172.170	3128	透明代理	印度 国家教育网
+30	202.39.175.6	3128	透明代理	台湾省 中华电信
+31	177.69.52.192	3128	透明代理	巴西
+32	218.207.195.217	80	高度匿名	福建省厦门市 移动
+33	112.5.254.162	80	透明代理	福建省福州市 移动
+34	200.203.146.69	3128	透明代理	巴西 圣保罗
+35	114.141.47.173	80	透明代理	韩国
+36	106.37.177.251	3128	透明代理	北京市 电信
+37	106.38.251.62	8088	匿名代理	北京市 北京电信互联网数据中心
+38	211.150.65.29	80	匿名代理	北京市 263网络通信股份有限公司
+39	222.88.236.236	83	匿名代理	河南省南阳市 电信ADSL
+40	124.126.126.105	80	透明代理	北京市
+41	116.236.216.116	8080	高度匿名	上海市长宁区 /普陀区电信
+42	119.29.76.230	3128	透明代理	北京市 (静安中心机房)
+43	222.88.236.236	81	匿名代理	河南省南阳市 电信ADSL
+44	122.225.106.36	80	透明代理	浙江省湖州市 电信
+45	59.56.75.20	80	透明代理	福建省福州市
+46	181.211.12.58	8080	透明代理	拉美地区
+47	121.201.18.74	3128	透明代理	广东省佛山市 广东睿江科技有限公司
+48	89.105.159.219	8080	透明代理	俄罗斯
+49	222.88.236.235	80	匿名代理	河南省南阳市 电信ADSL
+50	218.204.140.106	8118	匿名代理	江西省赣州市 移动
+51	112.5.254.162	80	透明代理	福建省福州市 移动
+52	59.56.75.20	80	透明代理	福建省福州市
+53	195.46.13.84	8085	透明代理	希腊
+54	118.126.142.209	3128	透明代理	湖南省 铁通
+55	222.88.236.236	83	匿名代理	河南省南阳市 电信ADSL
+56	115.231.97.251	3128	透明代理	浙江省杭州市
+57	111.40.194.103	8082	高度匿名	黑龙江省 移动
+58	111.40.194.103	8081	高度匿名	黑龙江省 移动
+59	123.125.104.242	80	匿名代理	北京市
+60	119.29.115.215	3128	透明代理	北京市 (静安中心机房)
+61	222.213.236.162	63000	高度匿名	四川省雅安市 电信
+62	117.177.243.26	8081	高度匿名	四川省内江市 移动
+63	183.218.63.102	8118	匿名代理	江西省上饶市 移动
+64	218.204.143.137	8118	匿名代理	江西省赣州市 移动
+65	82.85.26.203	3128	透明代理	意大利
+66	111.40.196.70	84	高度匿名	黑龙江省 移动
+67	101.4.136.104	9999	透明代理	北京市 教育网
+68	210.31.15.35	80	透明代理	北京市 中央民族大学
+69	183.216.255.18	8118	匿名代理	江西省赣州市 移动
+70	124.202.173.210	8118	匿名代理	北京市 电信通
+71	64.12.68.46	80	透明代理	美国 AOL美国在线公司
+72	111.40.194.108	82	高度匿名	黑龙江省 移动
+73	183.203.208.177	8118	匿名代理	山西省运城市 移动
+74	117.177.243.50	86	高度匿名	四川省内江市 移动
+75	117.177.243.51	84	高度匿名	四川省内江市 移动
+76	101.4.136.67	80	高度匿名	北京市 教育网
+77	117.177.243.50	8081	高度匿名	四川省内江市 移动
+78	117.177.243.26	80	高度匿名	四川省内江市 移动
+79	89.105.159.219	8080	透明代理	俄罗斯
+80	106.37.177.251	3128	透明代理	北京市 电信
+81	117.177.243.51	8081	高度匿名	四川省内江市 移动
+82	117.177.243.30	86	高度匿名	四川省内江市 移动
+83	218.204.140.106	8118	匿名代理	江西省赣州市 移动
+84	117.177.243.30	8080	高度匿名	四川省内江市 移动
+85	124.202.221.26	8001	匿名代理	北京市 电信通
+86	114.215.108.155	9999	匿名代理	山东省青岛市 阿里云BGP数据中心
+87	117.177.243.30	8083	高度匿名	四川省内江市 移动
+88	218.204.139.98	8118	匿名代理	江西省赣州市 移动
+89	211.141.130.96	8001	匿名代理	江西省赣州市 移动
+90	221.228.248.248	8085	高度匿名	江苏省无锡市 电信ADSL
+91	218.204.143.85	8118	匿名代理	江西省赣州市 移动
+92	101.4.136.103	9999	透明代理	北京市 教育网
+93	111.40.194.108	83	高度匿名	黑龙江省 移动
+94	120.83.5.164	18000	透明代理	广东省佛山市 联通
+95	211.141.81.212	8118	匿名代理	江西省赣州市 移动
+96	14.218.78.127	9797	透明代理	广东省东莞市
+97	124.202.170.178	8118	匿名代理	北京市 电信通
+98	190.112.42.131	8080	透明代理	阿根廷
+99	117.177.243.50	80	高度匿名	四川省内江市 移动
+100	183.203.14.88	3129	匿名代理	山西省 移动
+101	120.236.68.229	9000	透明代理	北京市 移动
+102	183.131.144.204	80	高度匿名	浙江省温州市
+103	124.161.94.8	80	透明代理	四川省南充市 联通
+104	221.10.102.203	82	匿名代理	四川省德阳市 联通
+105	221.10.102.203	81	匿名代理	四川省德阳市 联通
+106	122.136.46.151	3128	透明代理	吉林省延边州
+107	108.59.255.102	3128	透明代理	美国
+108	123.125.104.240	80	匿名代理	北京市
+109	185.27.56.110	80	高度匿名	马耳他
+110	124.202.176.102	8001	匿名代理	北京市 电信通
+111	46.32.4.138	8080	透明代理	伊朗
+112	111.40.194.103	8080	高度匿名	黑龙江省 移动
+113	122.96.59.106	82	匿名代理	江苏省南京市 联通
+114	115.84.178.93	3128	透明代理	越南
+115	120.203.149.162	8118	匿名代理	江西省赣州市 移动
+116	183.131.144.204	443	高度匿名	浙江省温州市
+117	94.100.53.1	8080	透明代理	塞尔维亚
+118	61.162.223.41	9797	透明代理	山东省日照市
+119	14.139.172.170	3128	透明代理	印度 国家教育网
+120	117.177.243.51	85	高度匿名	四川省内江市 移动
+121	123.58.129.48	443	高度匿名	广东省广州市
+122	14.140.222.220	80	高度匿名	印度
+123	111.40.196.68	8081	透明代理	黑龙江省 移动
+124	124.202.182.182	8118	匿名代理	北京市 电信通
+125	61.54.221.200	3128	透明代理	河南省安阳市 联通
+126	119.167.78.42	9797	透明代理	山东省青岛市
+127	211.141.130.105	8118	匿名代理	江西省赣州市 移动
+128	177.22.111.113	3128	透明代理	巴西
+129	177.55.254.196	8080	透明代理	巴西
+130	121.15.230.126	9797	透明代理	广东省惠州市
+131	58.67.159.50	80	透明代理	广东省广州市 新一代IDC机房
+132	186.230.35.121	3130	透明代理	巴西
+133	210.101.131.231	8080	透明代理	韩国 首尔
+134	111.40.194.108	80	高度匿名	黑龙江省 移动
+135	190.52.192.1	8080	透明代理	厄瓜多尔
+136	218.204.143.83	8001	匿名代理	江西省赣州市 移动
+137	121.101.185.138	8080	透明代理	印度尼西亚
+138	122.136.46.151	80	透明代理	吉林省延边州
+139	189.45.13.217	8081	透明代理	巴西
+140	117.177.243.50	84	高度匿名	四川省内江市 移动
+141	221.10.102.203	80	匿名代理	四川省德阳市 联通
+142	202.138.248.9	8080	透明代理	印度尼西亚
+143	187.185.71.86	3128	透明代理	墨西哥
+144	190.226.54.13	8080	透明代理	阿根廷
+145	111.40.194.105	81	高度匿名	黑龙江省 移动
+146	222.189.55.14	80	高度匿名	江苏省连云港市
+147	79.172.227.226	8080	透明代理	匈牙利
+148	217.65.221.202	8080	透明代理	俄罗斯
+149	211.141.82.247	8118	匿名代理	江西省南昌市 移动
+150	60.208.199.250	8118	匿名代理	山东省济南市
+151	117.59.224.106	80	匿名代理	北京市
+152	78.131.56.64	8080	透明代理	匈牙利
+153	201.252.246.37	9090	透明代理	阿根廷
+154	114.255.183.189	8080	匿名代理	北京市 工业和信息化部
+155	121.248.112.20	3128	透明代理	江苏省连云港市 连云港技术学院
+156	186.28.232.2	8080	透明代理	哥伦比亚
+157	112.101.80.171	9797	透明代理	黑龙江省大庆市 电信
+158	186.88.59.202	3128	透明代理	委内瑞拉
+159	177.69.195.4	3128	透明代理	巴西
+160	222.189.55.0	80	高度匿名	江苏省连云港市
+161	183.218.63.179	8118	匿名代理	江西省上饶市 移动
+162	85.202.7.27	8080	透明代理	俄罗斯
+163	202.116.1.148	8128	透明代理	广东省广州市
+164	111.12.117.68	80	高度匿名	广西 移动
+165	200.43.65.91	8080	透明代理	阿根廷
+166	111.12.117.68	8082	高度匿名	广西 移动
+167	111.12.117.68	81	高度匿名	广西 移动
+168	80.58.103.130	3128	透明代理	西班牙
+169	203.130.205.169	3128	透明代理	印度尼西亚
+170	195.49.187.109	3128	透明代理	俄罗斯
+171	122.225.106.40	80	透明代理	浙江省湖州市 电信
+172	202.104.208.1	80	高度匿名	广东省肇庆市
+173	1.255.53.81	80	高度匿名	韩国
+174	85.185.42.5	8080	透明代理	伊朗
+175	122.96.59.106	81	匿名代理	江苏省南京市 联通
+176	95.130.134.106	8080	透明代理	俄罗斯
+177	5.149.106.196	8080	透明代理	伊拉克
+178	202.134.6.227	9999	透明代理	印度尼西亚
+179	84.208.169.22	3128	透明代理	挪威
+180	120.194.107.149	9999	透明代理	河南省 移动
+181	103.249.100.18	3128	透明代理	越南
+182	111.40.194.105	80	高度匿名	黑龙江省 移动
+183	85.185.42.6	8080	透明代理	伊朗
+184	94.250.252.64	3128	透明代理	荷兰
+185	190.184.144.141	8080	透明代理	哥伦比亚
+186	112.161.206.160	3128	透明代理	韩国
+187	120.132.52.84	8888	透明代理	北京市 联通
+188	209.66.192.149	3128	透明代理	美国
+189	124.192.13.181	8118	匿名代理	北京市 电信通
+190	210.200.13.232	80	高度匿名	台湾省 亚太电信股份有限公司
+191	202.152.45.251	3128	透明代理	印度尼西亚
+192	202.104.208.0	80	高度匿名	广东省肇庆市
+193	60.12.8.8	3128	透明代理	浙江省杭州市 联通
+194	186.224.64.222	8080	透明代理	巴西
+195	210.75.240.60	3128	透明代理	北京市 清华大学科技网
+196	125.78.160.27	80	匿名代理	福建省泉州市
+197	125.209.91.190	8080	透明代理	巴基斯坦
+198	222.189.55.8	80	高度匿名	江苏省连云港市
+199	200.24.159.146	8080	透明代理	拉美地区
+200	222.189.55.2	80	高度匿名	江苏省连云港市
+201	221.10.102.203	83	匿名代理	四川省德阳市 联通
+202	190.111.83.2	8080	透明代理	厄瓜多尔
+203	58.132.25.19	3128	透明代理	北京市 教育信息网
+204	181.113.25.229	8080	高度匿名	厄瓜多尔
+205	124.202.182.22	8118	匿名代理	北京市 电信通
+206	120.193.146.93	80	匿名代理	内蒙古 移动
+207	211.144.81.69	18000	透明代理	上海市 有线通
+208	182.160.124.171	8000	透明代理	孟加拉
+209	186.218.175.106	8080	透明代理	巴西
+210	219.137.229.141	9797	透明代理	广东省广州市花都区新华镇 电信ADSL
+211	124.202.171.126	8118	匿名代理	北京市 电信通
+212	122.96.59.106	83	匿名代理	江苏省南京市 联通
+213	220.181.143.14	9999	透明代理	北京市 上海冰动信息技术有限公司电信节点
+214	154.126.209.36	9999	透明代理	非洲
+215	124.131.221.142	9999	透明代理	山东省菏泽市曹县
+216	202.182.55.125	9876	透明代理	印度尼西亚
+217	118.175.240.27	3128	透明代理	泰国
+218	124.202.183.118	8001	匿名代理	北京市 电信通
+219	101.4.136.67	81	高度匿名	北京市 教育网
+220	117.177.243.26	81	高度匿名	四川省内江市 移动
+221	188.127.119.106	8080	透明代理	波斯尼亚和黑塞哥维那
+222	118.163.165.250	3128	高度匿名	台湾省 中华电信
+223	113.12.175.90	9797	透明代理	广西南宁市 电信
+224	115.238.55.91	8088	匿名代理	浙江省杭州市
+225	60.195.222.71	8001	匿名代理	北京市 电信通
+226	202.91.78.38	8081	透明代理	印度
+227	116.236.216.116	8080	高度匿名	上海市长宁区 /普陀区电信
+228	176.101.215.58	8080	透明代理	乌克兰
+229	110.173.0.58	8080	透明代理	北京市 北京首都国际电讯有限公司
+230	117.177.243.26	86	高度匿名	四川省内江市 移动
+231	190.166.230.2	8080	透明代理	多米尼加
+232	87.76.12.174	8080	透明代理	俄罗斯
+233	61.234.249.128	8118	匿名代理	湖南省常德市 铁通IDC机房
+234	211.144.81.68	18000	透明代理	上海市 有线通
+235	124.126.126.105	80	透明代理	北京市
+236	202.119.25.70	9999	透明代理	东南大学
+237	124.202.177.26	8118	匿名代理	北京市 电信通
+238	114.113.220.154	8080	透明代理	北京市 电信
+239	116.212.152.214	8080	透明代理	柬埔寨
+240	124.192.101.254	8118	匿名代理	北京市 电信通
+241	218.204.140.97	8118	匿名代理	江西省赣州市 移动
+242	111.40.194.108	8080	高度匿名	黑龙江省 移动
+243	77.50.220.92	8080	透明代理	俄罗斯
+244	93.116.49.221	80	透明代理	罗马尼亚
+245	58.214.5.229	80	高度匿名	江苏省无锡市 电信ADSL
+246	118.193.241.153	3128	高度匿名	上海市 上海安畅网络科技有限公司
+247	112.5.254.166	80	透明代理	福建省福州市 移动
+248	116.228.55.217	8003	高度匿名	上海市 电信
+249	196.201.216.170	7791	高度匿名	肯尼亚
+250	60.29.248.142	8080	透明代理	天津市 联通
